@@ -1,5 +1,5 @@
 {
-    "name": "riari/laravel-forum",
+    "name": "grg021/laravel-forum",
     "description": "A Laravel 6 package providing a solid foundation for building discussion forums",
     "keywords": ["laravel", "laravel-6", "forum", "discuss"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Riari",
             "email": "riari@teamteatime.net"
+        },
+        {
+            "name": "Greg Hermo",
+            "email": "greg.hermo@gmail.com"
         }
     ],
     "require": {
